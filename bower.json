@@ -1,0 +1,21 @@
+{
+  "name": "jquery2",
+  "homepage": "",
+  "authors": [
+    "Lindsay Williams <williamsl25@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1"
+  }
+}
